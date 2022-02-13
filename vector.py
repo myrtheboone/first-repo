@@ -28,4 +28,6 @@ class Vector:
            
         def __abs__(self):
                   return Vector(*[abs(x) for x in self.elements])
+              
+                #kjhkjhkh
 
